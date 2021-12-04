@@ -259,7 +259,7 @@ portfolio filter and popup
 /*----------------------
 hide all sections except active
 ----------------------*/
-/*(() =>{
+(() =>{
 
     const sections = document.querySelectorAll(".section");
     sections.forEach((section) =>{
@@ -268,7 +268,7 @@ hide all sections except active
         }
     })
 
-})();*/
+})();
 
 
 window.addEventListener("load", () =>{
